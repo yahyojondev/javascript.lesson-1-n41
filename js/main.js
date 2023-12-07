@@ -1,17 +1,17 @@
 // Begin 1
 
-// let a = +prompt("a ni kiriting");
-// let b = +prompt("b ni kiriting");
+let a = +prompt(" Begin1 a ni kiriting");
+let b = +prompt(" Begin1 b ni kiriting");
 
-// S = a * b;
-// P = 2 * (a + b);
+S = a * b;
+P = 2 * (a + b);
 
-// console.log("S = " ,S);
-// console.log("P = " ,P);
+console.log("S = " ,S);
+console.log("P = " ,P);
 
 // Begin 2
 
-// let d = +prompt("d ni kiriting");
+// let d = +prompt(" Begin2 d ni kiriting");
 
 // const p = 3.14;
 
@@ -25,7 +25,7 @@
 
 // Begin 3
 
-// let a = +prompt(" a ni kiriting");
+// let a = +prompt(" Begin3 a ni kiriting");
 
 // V = a ** 3;
 // S = 6 * a ** 2;
@@ -35,9 +35,9 @@
 
 // Begin 4
 
-// let a = +prompt(" a ni kiriting");
-// let b = +prompt(" b ni kiriting");
-// let c = +prompt(" c ni kiriting");
+// let a = +prompt("Begin4 a ni kiriting");
+// let b = +prompt("Begin4 b ni kiriting");
+// let c = +prompt("Begin4 c ni kiriting");
 
 // V = a*b*c;
 // S = 2 * (a * b + b * c + a * c);
@@ -47,16 +47,16 @@
 
 // Begin 5
 
-// let a = +prompt(" a kiriting");
-// let b = +prompt(" b kiriting");
+// let a = +prompt("Begin5 a kiriting");
+// let b = +prompt("Begin5 b kiriting");
 
 // M = (a + b) / 2;
 //  console.log("M = ",M);
 
 // Begin 6
 
-// let a = +prompt(" a ni kiriting");
-// let b = +prompt(" b ni kiriting");
+// let a = +prompt("Begin6 a ni kiriting");
+// let b = +prompt("Begin6 b ni kiriting");
 
 // c = ((a ** 2) + (b **2)) ** (1/2);
 // P = a + b +c;
@@ -65,8 +65,8 @@
 
 // Begin 7
 
-// let r1 = +prompt(" r1 ni kiriting");
-// let r2 = +prompt(" r2 ni kiriting");
+// let r1 = +prompt("Begin7 r1 ni kiriting");
+// let r2 = +prompt("Begin7 r2 ni kiriting");
 
 // const p = 3.14;
 
@@ -80,11 +80,11 @@
 
 // Begin 8
 
-// let l = +prompt("l ni kiriting");
+// let L = +prompt("Begin8 L ni kiriting");
 
 // const p = 3.14;
 
-// R = l / (2 * p);
+// R = L / (2 * p);
 
 // S = p * R ** 2;
 
@@ -93,10 +93,10 @@
 
 // Begin 9
 
-// let x1 = +prompt("x1 ni kiriting");
-// let x2 = +prompt("x2 ni kiriting");
-// let y1 = +prompt("y1 ni kiriting");
-// let y2 = +prompt("y2 ni kiriting");
+// let x1 = +prompt("Begin9 x1 ni kiriting");
+// let x2 = +prompt("Begin9 x2 ni kiriting");
+// let y1 = +prompt("Begin9 y1 ni kiriting");
+// let y2 = +prompt("Begin9 y2 ni kiriting");
 
 // L = ((x1 - x2) ** 2 + (y1 - y2) ** 2) ** (1/2);
 
@@ -122,7 +122,7 @@
 
 //  Begin 11
 
-// let x = +prompt("x ni kiriting");
+// let x = +prompt("Begin11 x ni kiriting");
 
 // y = 4 * ((x - 3) ** 6) - 7 * ((x - 3) ** 3) + 2;
 
@@ -130,8 +130,8 @@
 
 // Begin 12
 
-// let A = +prompt("A ni kiriting");
-// let n = +prompt("n ni kiriting");
+// let A = +prompt("Begin12 A ni kiriting");
+// let n = +prompt("Begin12 n ni kiriting");
 
 // M = A ** n 
 
@@ -139,7 +139,7 @@
 
 // Begin 13
 
-// let Tf = +prompt("Tf ni kiriting");
+// let Tf = +prompt("Begin13 Tf ni kiriting");
 
 // Tc = (Tf - 32) * (5 / 9);
 
@@ -147,10 +147,10 @@
 
 // Begin 14 
 
-// let A = +prompt("A so'm ni kiriting");
-// let X = +prompt("X ni kiriting");
-// let B = +prompt("B so'm ni kiriting");
-// let Y = +prompt("Y ni kiriting");
+// let A = +prompt("Begin14 A so'm ni kiriting");
+// let X = +prompt("Begin14 X ni kiriting");
+// let B = +prompt("Begin14 B so'm ni kiriting");
+// let Y = +prompt("Begin14 Y ni kiriting");
 
 // sh = A / X;
 // k = B / Y; 
@@ -161,10 +161,10 @@
 
 // Begin 15 
 
-// let A = +prompt("A so'm ni kiriting");
-// let X = +prompt("X ni kiriting");
-// let B = +prompt("B so'm ni kiriting");
-// let Y = +prompt("Y ni kiriting");
+// let A = +prompt("Begin15 A so'm ni kiriting");
+// let X = +prompt("Begin15 X ni kiriting");
+// let B = +prompt("Begin15 B so'm ni kiriting");
+// let Y = +prompt("Begin15 Y ni kiriting");
 
 // o1 = A / X;
 // o2 = B / Y; 
@@ -175,7 +175,7 @@
 
 // integer 1 
 
-// let abc = +prompt("abc ni kiriting");
+// let abc = +prompt("integer1 abc ni kiriting");
 
 // let c = abc % 10;
 // let bc = (abc % 100);
@@ -186,7 +186,7 @@
 
 // integer 2
 
-// let abc = +prompt("abc ni kiriting");
+// let abc = +prompt("integer2 abc ni kiriting");
 
 // let c = abc % 10;
 // let bc = (abc % 100);
@@ -199,7 +199,7 @@
 
 // integer 3
 
-// let abc = +prompt("abc ni kiriting");
+// let abc = +prompt("integer3 abc ni kiriting");
 
 // let c = abc % 10;
 // let bc = (abc % 100);
@@ -213,7 +213,7 @@
 
 // integer 4
 
-// let abc = +prompt("abc ni kiriting");
+// let abc = +prompt("integer4 abc ni kiriting");
 
 // let c = abc % 10;
 // let bc = (abc % 100);
@@ -227,7 +227,7 @@
 
 // integer 5
 
-// let abc = +prompt("abc ni kiriting");
+// let abc = +prompt("integer5 abc ni kiriting");
 
 // let c = abc % 10;
 // let bc = (abc % 100);
@@ -241,7 +241,7 @@
 
 // integer 6
 
-// let abcde = +prompt("abcde ni kiriting");
+// let abcde = +prompt("integer6 abcde ni kiriting");
 
 // let ab  = Math.floor(abcde / 1000);
 // let b = ab % 10 ;
@@ -252,7 +252,7 @@
 
 // integer 7
 
-// let N = +prompt("N ni kiriting");
+// let N = +prompt("integer7 N ni kiriting");
 
 // let M = N / 60 ;
 
@@ -261,7 +261,7 @@
 
 // integer 8
 
-// let N = +prompt("N ni kiriting");
+// let N = +prompt("integer8 N ni kiriting");
 
 // let M = N / 3600 ;
 
@@ -270,7 +270,7 @@
 
 // integer 9
 
-// let N = +prompt("N ni kiriting");
+// let N = +prompt("integer9 N ni kiriting");
 
 // let M = N / 60 ;
 
@@ -280,7 +280,7 @@
 
 // integer 10
 
-// let N = +prompt("N ni kiriting");
+// let N = +prompt("integer10 N ni kiriting");
 
 // let M = N / 3600 ;
 
